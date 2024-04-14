@@ -1,0 +1,72 @@
+body{
+
+  background-color: #c5e6ff;
+
+}
+
+.interactive:hover {
+  transform: scale(1.05); 
+}
+
+/*-------------------------------------------------------jessica----------------------------------------------------------------------------------------------*/
+.right-float{
+  float: right;
+  line-height: 1.1;
+  margin-left: 20px;
+}
+
+.left-float{
+  float: left;
+  line-height: 1.1;
+  margin-right: 20px;
+}
+
+.areaw_jessica {
+  padding: 20px;
+  background-color: rgb(255, 255, 255); 
+  border-radius: 15px; 
+  transition: transform 0.5s; 
+ margin-right: 10px; 
+ display: inline-block; 
+}
+
+
+.areab_jessica {
+  padding: 20px;
+  background-color: rgb(144, 184, 210); 
+  border-radius: 15px; 
+  transition: transform 0.5s; 
+ margin-right: 10px; 
+ display: inline-block; 
+}
+
+.arealb_jessica {
+  padding: 20px;
+  background-color: rgb(188, 239, 249); 
+  border-radius: 15px; 
+  transition: transform 0.5s; 
+ margin-right: 10px; 
+ display: inline-block; 
+}
+
+.areae_jessica {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0); 
+  border-radius: 15px; 
+  transition: transform 0.5s; 
+ margin-right: 10px; 
+ display: inline-block; 
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+
+.listStyle_Niki {
+  font-size: 30px;
+  font-family: "Times New Roman", serif;
+  line-height: 1.1; 
+  letter-spacing: 2px; 
+}
+
+.paragraph_small_Niki {
+  font-size: 27px;
+}
